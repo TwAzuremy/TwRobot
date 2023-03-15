@@ -1,0 +1,4 @@
+component: "simbot.mirai"
+code: 123456789
+passwordInfo: !<text>
+  text: "你的密码"
